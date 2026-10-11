@@ -2,17 +2,25 @@
 
 **Tower defense contra hordas de miles de aliens.** Construye tu propio laberinto de torres y muros en la cubierta de una estación espacial y defiende el reactor el mayor tiempo posible. Las oleadas no terminan nunca: compite en el ranking online y comparte tus partidas por WhatsApp.
 
+<p align="center">
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-win-Setup.exe"><img alt="Descargar para Windows" src="https://img.shields.io/badge/Windows-Descargar-0078D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg=="></a>
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-osx-Portable.zip"><img alt="Descargar para macOS" src="https://img.shields.io/badge/macOS-Descargar-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal.AppImage"><img alt="Descargar para Linux" src="https://img.shields.io/badge/Linux-Descargar-E95420?style=for-the-badge&logo=linux&logoColor=white"></a>
+</p>
+
+<p align="center"><sub>Siempre la última versión · macOS: Apple Silicon (M1 o posterior) · el juego se actualiza solo</sub></p>
+
 ![La horda avanzando por un laberinto de Blasters](screenshots/partida.jpg)
 
 ## Descargar
 
-Última versión: **[Releases → latest](https://github.com/tavodev/titipuchal-releases/releases/latest)**
+Los botones de arriba bajan siempre la última versión. Todas las versiones y sus notas: **[Releases](https://github.com/tavodev/titipuchal-releases/releases)**.
 
 | Sistema | Archivo | Cómo abrirlo |
 |---|---|---|
-| Windows | `Titipuchal-win-Setup.exe` | Ejecútalo. Si aparece SmartScreen: *Más información → Ejecutar de todos modos*. |
-| macOS (Apple Silicon, M1 o posterior) | `Titipuchal-osx-Portable.zip` | Descomprime y abre `Titipuchal.app`. |
-| Linux | `Titipuchal.AppImage` | `chmod +x Titipuchal.AppImage` y ábrelo. |
+| Windows | [`Titipuchal-win-Setup.exe`](https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-win-Setup.exe) | Ejecútalo. Si aparece SmartScreen: *Más información → Ejecutar de todos modos*. |
+| macOS (Apple Silicon, M1 o posterior) | [`Titipuchal-osx-Portable.zip`](https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-osx-Portable.zip) | Descomprime y abre `Titipuchal.app`. |
+| Linux | [`Titipuchal.AppImage`](https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal.AppImage) | `chmod +x Titipuchal.AppImage` y ábrelo. |
 
 El juego se actualiza solo: cuando hay una versión nueva, el menú principal ofrece **Actualizar**.
 
