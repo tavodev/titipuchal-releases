@@ -3,9 +3,9 @@
 **Tower defense contra hordas de miles de aliens.** Construye tu propio laberinto de torres y muros en la cubierta de una estación espacial y defiende el reactor el mayor tiempo posible. Las oleadas no terminan nunca: compite en el ranking online y comparte tus partidas por WhatsApp.
 
 <p align="center">
-  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-win-Setup.exe"><img alt="Descargar para Windows" src="https://img.shields.io/badge/Windows-Descargar-0078D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg=="></a>
-  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-osx-Portable.zip"><img alt="Descargar para macOS" src="https://img.shields.io/badge/macOS-Descargar-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal.AppImage"><img alt="Descargar para Linux" src="https://img.shields.io/badge/Linux-Descargar-E95420?style=for-the-badge&logo=linux&logoColor=white"></a>
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-win-Setup.exe"><img alt="Descargar para Windows" src="badges/windows.svg"></a>
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal-osx-Portable.zip"><img alt="Descargar para macOS" src="badges/macos.svg"></a>
+  <a href="https://github.com/tavodev/titipuchal-releases/releases/latest/download/Titipuchal.AppImage"><img alt="Descargar para Linux" src="badges/linux.svg"></a>
 </p>
 
 <p align="center"><sub>Siempre la última versión · macOS: Apple Silicon (M1 o posterior) · el juego se actualiza solo</sub></p>
