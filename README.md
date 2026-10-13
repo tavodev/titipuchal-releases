@@ -26,6 +26,10 @@ El juego se actualiza solo: cuando hay una versión nueva, el menú principal of
 
 ## Cómo se juega
 
+Los créditos están junto a las construcciones. Al empezar, una guía te ayuda a colocar tu primera defensa. Pulsa `F` para ver el tablero completo entre los paneles de la interfaz.
+
+En el menú principal, **Cómo jugar** muestra las cuatro construcciones y los controles. Puedes volver a consultarlo cuando lo necesites.
+
 - **Construye donde quieras**: torres Blaster, Tintilines, Gravitones y muros en cualquier casilla libre. Los aliens recalculan su camino al instante, así que el laberinto lo diseñas tú.
 - **Tintilín**: un láser que pega al instante y rebota entre cuatro aliens: ideal contra la horda apretada.
 - **Gravitón**: no dispara, emite ondas gravitacionales que frenan a la horda para que pase más tiempo bajo el fuego de tus Blasters.
@@ -46,12 +50,17 @@ Al compartir por WhatsApp, tus amigos ven una tarjeta como esta con tu laberinto
 
 ![Tarjeta de la partida para WhatsApp](screenshots/compartir.jpg)
 
+![Interfaz de construcción con créditos y funciones de cada torre](screenshots/hud.jpg)
+
 ![Menú principal](screenshots/menu.jpg)
+
+![Cómo jugar: construcciones y controles](screenshots/ayuda.jpg)
 
 ## Controles
 
 | Acción | Tecla |
 |---|---|
+| Menú principal | `↑` / `↓` y `Enter`, o ratón; **Cómo jugar** abre la ayuda |
 | Elegir Blaster / Muro / Gravitón / Tintilín | `1` / `2` / `3` / `4` o clic en el muelle |
 | Construir (se puede arrastrar) | clic izquierdo |
 | Vender (50 %) | clic derecho sobre la construcción |
@@ -60,4 +69,6 @@ Al compartir por WhatsApp, tus amigos ven una tarjeta como esta con tu laberinto
 | Zoom | rueda del ratón / trackpad (`F` encuadra el tablero) |
 | Mover la cámara | `WASD` / flechas o botón central |
 | Pausa | `Esc` / `P` |
+| Ayuda durante la partida | `H` o botón Ayuda; `H` / `Esc` cierra |
+| Mostrar / ocultar datos de partida | `Tab` o botón Datos |
 | Compartir la partida (tras perder) | `W` |
